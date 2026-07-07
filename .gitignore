@@ -41,3 +41,17 @@ tmp_pytorch/
 *.csv
 *.xlsx
 *.xls
+
+# ML datasets and model artifacts
+dataset/
+raw_dataset/
+processed_dataset/
+models/
+checkpoints/
+*.keras
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.onnx
+*.tflite
