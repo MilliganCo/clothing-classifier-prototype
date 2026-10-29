@@ -1,5 +1,7 @@
 # Clothing Classifier Prototype
 
+> Public experimental source: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known defects, restored modules and operational limits. Earlier audit decisions are historical.
+
 ## Описание
 
 Прототип пайплайна для классификации одежды по изображениям. В проекте есть подготовка датасета, переименование файлов, валидационные проверки и обучение модели на базе `MobileNetV2`.
